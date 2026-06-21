@@ -27,6 +27,7 @@ I successfully converted a raw dataset into a clean and organized dataset suitab
 In Summary, This project focused on transforming a raw dataset into a clean and reliable format for analysis. The process involved identifying and handling missing values, removing duplicate records, and correcting inconsistent data formats. Using Microsoft Excel, the dataset was prepared to ensure accuracy, consistency, and readiness for further analysis. This project strengthened my skills in data cleaning, validation, and preparation.
 
 
+
 **PROJECT 2: Exploratory Data Analysis (EDA)**
 This project explores an e-commerce dataset to uncover meaningful patterns, trends, and insights. Using Microsoft Excel, I performed exploratory data analysis by examining key statistics, identifying data distributions, and analyzing customer and sales-related information. The goal was to transform raw data into actionable insights that can support business decisions and improve understanding of e-commerce performance.
 
