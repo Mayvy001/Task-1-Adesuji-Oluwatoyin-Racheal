@@ -1,4 +1,5 @@
 **PROJECT 1: Data Cleaning & Preparation**
+This project focuses on cleaning and preparing an e-commerce dataset for analysis. Raw data often contains missing values, duplicate records, and inconsistencies that can affect the accuracy of insights. Using Microsoft Excel, I cleaned the dataset by addressing data quality issues, standardizing formats, and ensuring the data was accurate, complete, and ready for analysis. The project highlights the importance of data preparation as a critical step in the data analytics process.
 
 **Objective**
 To transform a raw dataset into a clean, structured, and analysis-ready format by handling missing values, duplicates, and data inconsistencies.
@@ -27,6 +28,8 @@ In Summary, This project focused on transforming a raw dataset into a clean and 
 
 
 **PROJECT 2: Exploratory Data Analysis (EDA)**
+This project explores an e-commerce dataset to uncover meaningful patterns, trends, and insights. Using Microsoft Excel, I performed exploratory data analysis by examining key statistics, identifying data distributions, and analyzing customer and sales-related information. The goal was to transform raw data into actionable insights that can support business decisions and improve understanding of e-commerce performance.
+
 
 **Objective**
 To analyze a dataset to uncover patterns, trends, distributions, and key insights that support data-driven decisions.
