@@ -1,34 +1,45 @@
-**PROJECT 1: Data Cleaning & Preparation**
-This project focuses on cleaning and preparing an e-commerce dataset for analysis. Raw data often contains missing values, duplicate records, and inconsistencies that can affect the accuracy of insights. Using Microsoft Excel, I cleaned the dataset by addressing data quality issues, standardizing formats, and ensuring the data was accurate, complete, and ready for analysis. The project highlights the importance of data preparation as a critical step in the data analytics process.
+# PROJECT 1: DATA CLEANING OF AN E-COMMERCE DATASET
 
-**Objective**
-To transform a raw dataset into a clean, structured, and analysis-ready format by handling missing values, duplicates, and data inconsistencies.
+## OVERVIEW
+Data quality is a critical component of effective data analysis and decision-making. This project focuses on cleaning and preparing an e-commerce dataset to ensure accuracy, consistency, and reliability. Using Microsoft Excel, various data quality issues such as missing values, duplicates, formatting inconsistencies, and data validation errors were identified and addressed.
 
-**Tasks Performed**
-Identified and handled missing/null values
-Removed duplicate records
-Corrected inconsistent data entries
-Standardized data formats (dates, numbers, and text)
-Improved overall data quality and reliability
+The objective of this project was to transform raw transactional data into a clean and structured dataset suitable for analysis. By improving the quality of the data, the project established a solid foundation for subsequent exploratory data analysis (EDA), SQL querying, dashboard development, and business intelligence reporting.
 
-**Tools Used**
-Microsoft Excel
+## DATASET
+The dataset used in this project is an e-commerce transaction dataset containing customer, product, sales, and order information. The dataset consisted of 1,200 records and multiple features, including Order ID, Customer ID, Product, Quantity, Unit Price, Total Price, Payment Method, Order Status, Coupon Code, and Referral Source.
 
-**Skills Demonstrated**
-1. Data Cleaning
-2. Data Preparation
-3. Data Validation
-4. Attention to Detail
-5. Excel Fundamentals
-
-**Outcome**
-I successfully converted a raw dataset into a clean and organized dataset suitable for analysis and decision-making.
-
-In Summary, This project focused on transforming a raw dataset into a clean and reliable format for analysis. The process involved identifying and handling missing values, removing duplicate records, and correcting inconsistent data formats. Using Microsoft Excel, the dataset was prepared to ensure accuracy, consistency, and readiness for further analysis. This project strengthened my skills in data cleaning, validation, and preparation.
+The objective of this project was to improve data quality and prepare the dataset for accurate analysis and reporting.
 
 
+## TOOLS USED
+* Microsoft Excel
+  * Remove Duplicates
+  * Find and Replace
+  * Filtering and Sorting
+  * Text Functions
+  * Conditional Formatting
+  * Data Validation
+  * Error Checking
 
 
+## DATA CLEANING PROCESS
+* Checked for and removed duplicate records.
+* Identified and handled missing values across relevant columns.
+* Standardized text formatting to ensure consistency.
+* Corrected data type inconsistencies in numeric and text fields.
+* Verified the accuracy of pricing and quantity data.
+* Removed unnecessary spaces and formatting errors.
+* Validated records to improve overall data quality.
+* Ensured the dataset was analysis-ready for subsequent EDA and SQL projects.
 
 
+## KEY OUTCOMES
+* Improved data accuracy and consistency.
+* Eliminated duplicate and incomplete records.
+* Standardized values across categorical fields.
+* Enhanced data reliability for analysis and reporting.
+* Created a clean, structured dataset suitable for business intelligence and decision-making.
+  
 
+## CONCLUSION
+Data cleaning is a critical step in the data analysis process, as the quality of insights depends on the quality of the underlying data. Through this project, the dataset was transformed from its raw state into a clean, consistent, and reliable format. The cleaned dataset provided a strong foundation for exploratory data analysis, SQL querying, dashboard development, and data-driven decision-making.
